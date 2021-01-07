@@ -151,7 +151,7 @@ for i in x:
 vikipedi =  "\n" +list[0] 
 
 # Argo Kelime Bildirimi
-argo_list = ["piç", "amk","orospu"]
+argo_list = ["xxxx", "xxxxx","xxxx"]
 
 # Hava Durumu
 
