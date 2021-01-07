@@ -23,3 +23,4 @@
 * https://discord.com/developers/applications/ Linkini Kullanarak, Açılan sayfada sağ üstte yer alan " New Application " butonuna tıklayıp Botunuza isim verin ve daha sonrasında alt tarafta Botunuz görünecektir.
 
 
+<img src= "https://raw.githubusercontent.com/burhanclkkl/Game-Bot/main/bot_app/img1.png" width = "500px">
