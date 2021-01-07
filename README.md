@@ -31,23 +31,31 @@
 
 * Daha Sonra Kopyalamış olduğunuz linki url kısmına giriniz ve eklemek istediğiniz Sunucuyu seçiniz.
 
-<img src= "https://raw.githubusercontent.com/burhanclkkl/Game-Bot/main/bot_app/4.png">
+<img src= "https://raw.githubusercontent.com/burhanclkkl/Game-Bot/main/bot_app/img4.png">
 
 # Virtualenv Yükleme
 * Sanal Ortaımı Sağlayan sistem.
 
 > cd C:\Users\"kullanıcı ismi"\Desktop\"Klasör Adı"
+<br>
 > pip install virtualenv
+<br>
 > virtualenv "Klasör Adı"
+<br>
 > cd "Klasör Adı"
+<br>
 > Scripts\activate
+
 
 Daha Sonra İse..
 [Bot.py](https://github.com/burhanclkkl/Game-Bot/blob/main/bot.py) ' de Kullanılan Bazı Kütüphaneleri pip kullanarak eklemesini yapacağız..
 
 > pip install discord.py
+<br>
 > pip install requests
+<br>
 > pip install beautifulsoup4
+<br>
 
 [Bot.py](https://github.com/burhanclkkl/Game-Bot/blob/main/bot.py) ' nin içinde yer alan [ TOKEN = "<DISCORD TOKEN>"   # Token ] , <DISCORD TOKEN> Kısmına Kendi yaptığınız botun Token' inini Yapştırarark Botunuzu Kullanabilirsiniz.
 <img src= "https://raw.githubusercontent.com/burhanclkkl/Game-Bot/main/bot_app/img5.png" width = "1000px">
