@@ -2,7 +2,7 @@
 
 <img src= "https://raw.githubusercontent.com/burhanclkkl/Game-Bot/main/img/pp.png" height = "250px" width = "450px">
 
-## örnek Komutlar
+## Örnek Komutlar
 
 <img src= "https://raw.githubusercontent.com/burhanclkkl/Game-Bot/main/example_img/ornek3.PNG">
 <img src= "https://raw.githubusercontent.com/burhanclkkl/Game-Bot/main/example_img/ornek1.PNG">
