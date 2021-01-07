@@ -34,7 +34,7 @@
 <img src= "https://raw.githubusercontent.com/burhanclkkl/Game-Bot/main/bot_app/img4.png">
 
 # Virtualenv Yükleme
-* Sanal Ortaımı Sağlayan sistem.
+* Sanal Ortamı Sağlayan Sistem.
 
 > cd C:\Users\"kullanıcı ismi"\Desktop\"Klasör Adı"
 
