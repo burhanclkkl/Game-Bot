@@ -38,16 +38,16 @@
 # Virtualenv Yükleme
 * Sanal Ortamı Sağlayan Sistem.
 
-> cd C:\Users\[Kullanıcı İsmi]\Desktop\[Klasör Adı]
+> cd C:\Users\'Kullanıcı İsmi'\Desktop\' Klasör Adı '
 
 
 > pip install virtualenv
 
 
-> virtualenv [Klasör Adı]
+> virtualenv ' Klasör Adı '
 
 
-> cd [Klasör Adı]
+> cd ' Klasör Adı '
 
 
 > Scripts\activate
