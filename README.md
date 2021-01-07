@@ -66,7 +66,7 @@
 > pip install beautifulsoup4
 
 
-* [Bot.py](https://github.com/burhanclkkl/Game-Bot/blob/main/bot.py) ' nin içinde yer alan ' TOKEN = " <DISCORD TOKEN> "   # Token ' , <DISCORD TOKEN> Kısmına Kendi yaptığınız botun Token' inini Yapştırarark Botunuzu Kullanabilirsiniz.
+* [Bot.py](https://github.com/burhanclkkl/Game-Bot/blob/main/bot.py) ' nin içinde yer alan ' TOKEN = " <DISCORD TOKEN>  " # Token ' , <DISCORD TOKEN> Kısmına Kendi yaptığınız botun Token' inini Yapştırarark Botunuzu Kullanabilirsiniz.
 
 <img src= "https://raw.githubusercontent.com/burhanclkkl/Game-Bot/main/bot_app/img5.png" width = "1000px">
 
