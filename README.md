@@ -35,8 +35,6 @@
 
 * [Bot.py](https://github.com/burhanclkkl/Game-Bot/blob/main/bot.py) ' nin içinde yer alan ' TOKEN = " <DISCORD TOKEN>  " # Token ' , <DISCORD TOKEN> Kısmına Kendi yaptığınız botun Token' inini Yapştırırız.
 
-<img src= "https://raw.githubusercontent.com/burhanclkkl/Game-Bot/main/bot_app/img5.png" width = "1000px">
-
 * En son cmd' ye yazarak botu aktif hale getiririz...
 
 > python bot.py
