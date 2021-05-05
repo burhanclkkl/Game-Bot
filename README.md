@@ -33,7 +33,7 @@
 > pip install beautifulsoup4
 
 
-* [Bot.py](https://github.com/burhanclkkl/Game-Bot/blob/main/bot.py) TOKEN = '<DISCORD TOKEN>' # Token
+* [Bot.py](https://github.com/burhanclkkl/Game-Bot/blob/main/bot.py) TOKEN = <DISCORD TOKEN>  # Token
 
 
 > python bot.py
