@@ -33,9 +33,8 @@
 > pip install beautifulsoup4
 
 
-* [Bot.py](https://github.com/burhanclkkl/Game-Bot/blob/main/bot.py) ' nin içinde yer alan ' TOKEN = " <DISCORD TOKEN>  " # Token ' , <DISCORD TOKEN> Kısmına Kendi yaptığınız botun Token' inini Yapştırırız.
+* [Bot.py](https://github.com/burhanclkkl/Game-Bot/blob/main/bot.py) TOKEN = '<DISCORD TOKEN>' # Token
 
-* En son cmd' ye yazarak botu aktif hale getiririz...
 
 > python bot.py
 
